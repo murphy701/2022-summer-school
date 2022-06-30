@@ -6,3 +6,35 @@ git test
 
 # block quote
 > hi
+
+# 순서 있는 리스트
+1. a
+2. b
+3. c
+# 순서 없는 리스트
+*blue
+ *green
+  *red
+  
+  color
+  
+     list
+     
+code
+  
+    #include<stdio.h>
+    void main(){
+    printf("hello");
+    }
+    
+***
+hyperlink
+
+[googlelink]:https://google.co.uk "Let's Go Google"
+<em>naver homepage: <https://naver.com>
+  
+<img src="TestImage.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="TestImage.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+<table><td>hi</td>
+  <td> hello</td></table>
